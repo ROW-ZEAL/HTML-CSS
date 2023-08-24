@@ -16,7 +16,6 @@
 
 
 
-#some Demo Results
-![Screenshot](https://raw.githubusercontent.com/ROW-ZEAL/HTML-CSS/master/assets/100015569/2ad343d1-e3c7-439b-9c3d-8c3a822adbe0.png)
+
 
 
